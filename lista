@@ -1,0 +1,3 @@
+tb_cliente|tbdt_stg_client|tbdt_tgt_client
+tb_endereco|tbdt_stg_endereco|tbdt_tgt_endereco
+tb_profissao|tbdt_stg_profissao|tbdt_tgt_profissao
